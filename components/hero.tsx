@@ -39,7 +39,7 @@ export function Hero() {
     greeting: "안녕하세요, 니하오, 오하요",
     name: "MR.빈 입니다",
     title: "저의 놀이터에 오신걸 환영합니다",
-    description: "프롭테크 기술로 부동산 시장을 분석합니다.",
+    description: "즐거운 하루 보내세요~_ㅋ",
     profileImage: "/uploads/hero-profile-1764859359818.gif",
     backgroundImage: "",
     backgroundVideo: "",
