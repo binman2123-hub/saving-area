@@ -38,9 +38,9 @@ export function Hero() {
   const defaultInfo = {
     greeting: "안녕하세요, 니하오, 오하요",
     name: "MR.빈 입니다",
-    title: "단국대 교수입니다",
+    title: "저의 놀이터에 오신걸 환영합니다",
     description: "프롭테크 기술로 부동산 시장을 분석합니다.",
-    profileImage: "/uploads/hero-profile-1761477237286.png",
+    profileImage: "/uploads/hero-profile-1764859359818.gif",
     backgroundImage: "",
     backgroundVideo: "",
     backgroundOpacity: 0.1,
